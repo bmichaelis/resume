@@ -22,6 +22,13 @@ Greater Salt Lake City Area
 - Implemented a CMS for the corporate website
 - Recruit, hire and train development team
 
+### [Mountainland Applied Technology College][], Lehi, UT
+
+##### Instructor, Software Development - September 2014 to present
+- Develop curriculum for beginning software development course
+- Develop agile methodology for course delivery
+- Guide student learning
+
 ### [Utah Valley University][], Orem, UT
 
 ##### Assistant Director, Web Development - July 2005 to December 2010
@@ -46,7 +53,7 @@ Greater Salt Lake City Area
 
 ## Skills
 
-Proficient in PHP, JavaScript, AngularJS, NodeJS, MySQL, MongoDB and bash scripting for linux system administration.
+Proficient in PHP, JavaScript, AngularJS, NodeJS, MySQL, MongoDB, Git and bash scripting for linux system administration.
 
 ## Education
 
@@ -56,3 +63,4 @@ Emphasis in E-Commerce. Graduated 2005.
   [Unicity International]: http://www.unicity.com
   [my linkedin profile]: https://www.linkedin.com/in/brettmichaelis  
   [Utah Valley University]: http://www.uvu.edu
+  [Mountainland Applied Technology College]: http://www.mlatc.edu
